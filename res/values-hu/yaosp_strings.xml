@@ -18,5 +18,27 @@
     <string name="incall_vibrate_hangup_title">Hívás megszakításakor</string>
     <string name="incall_vibrate_45_title">Percenként rezeg</string>
     <string name="incall_vibrate_45_summary">Minden 45. másodpercben rezeg a kimenő hívások közben</string>
+     
+    <!-- Forward lookup -->
+    <string name="nearby_places">Közeli helyek</string>
+    <string name="people">Személyek</string>
+
+    <!-- Number lookup -->
+    <string name="lookup_settings_label">Telefonszám keresés</string>
+    <string name="lookup_settings_description">Keresés ismeretlen telefonszámok esetén</string>
+    <string name="enable_forward_lookup_title">Címkeresés</string>
+    <string name="enable_forward_lookup_summary">Közeli helyek megjelenítése a tárcsázóban történő kereséskor</string>
+    <string name="enable_people_lookup_title">Személy keresés</string>
+    <string name="enable_people_lookup_summary">Online eredmények megjelenítése a tárcsázóban történő személy kereséskor</string>
+    <string name="enable_reverse_lookup_title">Névkeresés</string>
+    <string name="enable_reverse_lookup_summary">Személy vagy hely információk megjelenítése ismeretlen számról történő bejövő hívás esetén</string>
+    <string name="forward_lookup_provider_title">Címkeresési szolgáltató</string>
+    <string name="people_lookup_provider_title">Személy keresési szolgáltató</string>
+    <string name="reverse_lookup_provider_title">Névkeresési szolgáltató</string>
+
+    <!-- Chinese Reverse Lookup Provider -->
+    <string name="cyngn_reverse_lookup_provider_package" translatable="false">com.cyngn.chineselocationlookup</string>
+    <string name="cyngn_reverse_lookup_provider_name">Cyngn Kínai (CN)</string>
+    <string name="cyngn_reverse_lookup_provider_value" translatable="false">CyngnChinese</string>
     
 </resources>
